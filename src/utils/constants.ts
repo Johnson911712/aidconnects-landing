@@ -1,0 +1,91 @@
+export const BRAND = {
+  name: 'AidConnects',
+  tagline: "Nigeria's #1 Peer-to-Peer Services Marketplace",
+  website: 'https://www.aidconnects.online',
+  logo: 'https://www.aidconnects.online/images/logo.jpg',
+  email: '[Contact Email]',
+  phone: '[Contact Phone]',
+  address: '[Registered Office Address]',
+}
+
+export const COLORS = {
+  primary: '#dc2626',
+  primaryDark: '#991b1b',
+  foreground: '#111827',
+  background: '#ffffff',
+  muted: '#6b7280',
+  border: '#e5e7eb',
+  success: '#059669',
+  warning: '#f59e0b',
+  danger: '#dc2626',
+}
+
+export const REGULATORY = {
+  cac: {
+    name: 'CAC',
+    fullName: 'Corporate Affairs Commission',
+    type: 'Registered',
+    registrationNumber: '[CAC Registration Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+  ndpc: {
+    name: 'NDPC',
+    fullName: 'Nigeria Data Protection Commission',
+    type: 'Registered/Certified',
+    registrationNumber: '[NDPC Registration Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+  fccpc: {
+    name: 'FCCPC',
+    fullName: 'Federal Competition and Consumer Protection Commission',
+    type: 'Approved',
+    registrationNumber: '[FCCPC Approval Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+  sec: {
+    name: 'SEC',
+    fullName: 'Securities and Exchange Commission',
+    type: 'Regulated',
+    registrationNumber: '[SEC Registration Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+  government: {
+    name: 'Government',
+    fullName: 'Government Regulatory Approval',
+    type: 'Approved',
+    registrationNumber: '[Government Approval Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+  fsp: {
+    name: 'FSP',
+    fullName: 'Licensed Financial Services Provider',
+    type: 'Licensed',
+    registrationNumber: '[FSP License Number]',
+    issueDate: '[Issue Date]',
+    expiryDate: '[Expiry Date]',
+    verificationUrl: '[Official Verification URL]',
+    status: 'Active',
+  },
+}
+
+export const COMPANY_INFO = {
+  legalName: '[Legal Company Name]',
+  cacRegistration: '[CAC Registration Number]',
+  registeredOffice: '[Registered Office Address]',
+  regulatoryStatus: '[Regulatory Status — all applicable regulators]',
+}
