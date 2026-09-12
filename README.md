@@ -89,14 +89,6 @@ src/
 - **Muted Gray**: `#6b7280`
 - **Border Gray**: `#e5e7eb`
 
-## 📧 Contact Information
-
-- **General Info**: info@aidconnects.online
-- **Social Media**: socialmedia@aidconnects.online
-- **Billing**: billing@aidconnects.online
-- **Support**: support@aidconnects.online
-- **Website**: https://www.aidconnects.online
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -155,6 +147,7 @@ Edit `src/utils/constants.ts` to customize:
 ### Placeholder Content
 
 All policy pages and regulatory information contain placeholders marked with `[...]`. Replace these with actual content:
+- `[Contact Email]` - Your email address
 - `[Contact Phone]` - Your phone number
 - `[CAC Registration Number]` - Your CAC registration
 - `[Legal Company Name]` - Your company's legal name
@@ -272,7 +265,7 @@ pnpm format     # Format code with Biome
 - Company registration details
 - Social media links
 
-## 🔒 Security Features
+## 🔐 Security Features
 
 - TypeScript for type safety
 - Environment-based configuration
@@ -298,10 +291,8 @@ pnpm format     # Format code with Biome
 ## 📞 Contact
 
 - **Website**: https://www.aidconnects.online
-- **General**: info@aidconnects.online
-- **Social**: socialmedia@aidconnects.online
-- **Billing**: billing@aidconnects.online
-- **Support**: support@aidconnects.online
+- **Email**: [Contact Email]
+- **Phone**: [Contact Phone]
 
 ## 📄 License
 
