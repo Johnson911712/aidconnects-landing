@@ -3,9 +3,12 @@ export const BRAND = {
   tagline: "Nigeria's #1 Peer-to-Peer Services Marketplace",
   website: 'https://www.aidconnects.online',
   logo: 'https://www.aidconnects.online/images/logo.jpg',
-  email: '[Contact Email]',
+  email: 'info@aidconnects.online',
   phone: '[Contact Phone]',
   address: '[Registered Office Address]',
+  socialMedia: 'socialmedia@aidconnects.online',
+  billing: 'billing@aidconnects.online',
+  support: 'support@aidconnects.online',
 }
 
 export const COLORS = {
