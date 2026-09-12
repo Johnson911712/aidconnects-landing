@@ -83,6 +83,9 @@ src/
 │   ├── Compliance.tsx
 │   ├── Licences.tsx
 │   └── ConsumerProtection.tsx
+├── utils/
+│   ├── constants.ts
+│   └── hooks.ts
 ├── App.tsx
 ├── routes.tsx
 ├── index.css
